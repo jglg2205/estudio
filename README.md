@@ -1,2 +1,4 @@
 # Curso de Git & Github
-hola este es un curso dirigido por jonathan mircha el cual estoy disfrutando mucho
+hola este es un curso dirigido por jonathan mircha el cual estoy disfrutando mucho.
+
+Agregando mas contenido al README.
