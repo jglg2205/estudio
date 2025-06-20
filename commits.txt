@@ -1,0 +1,79 @@
+commit 7e5a010272469d8b00aaaa9400aeb103c57d6af7
+Merge: 29cb080 c74fd33
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Thu Jun 19 22:09:46 2025 -0500
+
+    corrigiendo el mensaje del conflicto
+
+commit 29cb080b15bfe01078ba51a78b562d2e86229859
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Thu Jun 19 22:07:15 2025 -0500
+
+    Agregando h3 y una ol al archivo html
+
+commit c74fd33930403a127d33d9ca9a0aeabeca5e7798
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Thu Jun 19 22:05:58 2025 -0500
+
+    agregando h2 y ul al archivo html
+
+commit f5609671dcd163b7c400b1bb447a5a1b1a33b817
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Thu Jun 19 21:57:57 2025 -0500
+
+    corrigiendo nombre de archivo html
+
+commit 79bfda1be146af92ec9e4c76ebbb51f204453eed
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Tue Jun 17 22:51:41 2025 -0500
+
+    borrando archivo extra html
+
+commit de54ae5ba1a579718badab1774fa1d5e309cd127
+Merge: a65736c 8eb4f69
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Tue Jun 17 22:47:26 2025 -0500
+
+    Merge branch 'html'
+
+commit 8eb4f698517840c5cf0efc5de981629ab123ac68
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Tue Jun 17 22:46:42 2025 -0500
+
+    otra pagina
+
+commit a65736cee205fec47da8b9c6438fbea1a301c2f2
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Tue Jun 17 22:33:49 2025 -0500
+
+    creando ramas
+
+commit a95e8c9c2a879b53bb2da12cd562055cdf36c86a
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Sun Jun 15 17:40:05 2025 -0500
+
+    ignorando archivos
+
+commit 3eb2a183f26eae168237b3d9869e3f4d598ab1c1
+Author: JOSE LOPEZ <113222304+jglg2205@users.noreply.github.com>
+Date:   Sun Jun 15 16:52:34 2025 -0500
+
+    Create license.txt
+
+commit 4f47f0b974d558f46efe3d3330d235e6ffca560f
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Thu Jun 12 00:43:40 2025 -0500
+
+    modificando el contenido de Readme
+
+commit 5f3174218a826e9ef745fd9cfa18afbea62d9f11
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Thu Jun 12 00:31:53 2025 -0500
+
+    Agregando contenido inicial al README
+
+commit aff660c089d906f0d90e6459781b45e88d90bc48
+Author: jglg2205 <josegregoriolopez22@gmail.com>
+Date:   Thu Jun 12 00:28:17 2025 -0500
+
+    Primer commit

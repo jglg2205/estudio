@@ -1,0 +1,17 @@
+*   7e5a010 corrigiendo el mensaje del conflicto
+|\  
+| * c74fd33 agregando h2 y ul al archivo html
+* | 29cb080 Agregando h3 y una ol al archivo html
+|/  
+* f560967 corrigiendo nombre de archivo html
+* 79bfda1 borrando archivo extra html
+*   de54ae5 Merge branch 'html'
+|\  
+| * 8eb4f69 otra pagina
+* | a65736c creando ramas
+|/  
+* a95e8c9 ignorando archivos
+* 3eb2a18 Create license.txt
+* 4f47f0b modificando el contenido de Readme
+* 5f31742 Agregando contenido inicial al README
+* aff660c Primer commit
